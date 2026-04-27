@@ -39,7 +39,7 @@ Once you supply a sample-to-group mapping (see [Group comparison](#5-group-compa
 ## Repository layout
 
 ```         
-cardiomyocyte-size-pipeline/
+cardiomyocyte-segmentation-pipeline/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -71,7 +71,7 @@ cardiomyocyte-size-pipeline/
 Tested with Python 3.10+.
 
 ``` bash
-git clone <https://github.com/MobinKhoramjoo/cardiomyocyte-segmentation-pipeline>
+git clone https://github.com/MobinKhoramjoo/cardiomyocyte-segmentation-pipeline
 cd cardiomyocyte-segmentation-pipeline
 
 python -m venv .venv
