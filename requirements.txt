@@ -1,0 +1,19 @@
+# Core image analysis
+cellpose>=3.0
+scikit-image>=0.22
+numpy>=1.24
+
+# Reading Leica .lif microscopy files
+readlif>=0.6
+
+# Data wrangling and plotting
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+
+# Stats and on-plot annotations
+scipy>=1.10
+statannotations>=0.6
+
+# Optional, for the demo notebook
+jupyter
