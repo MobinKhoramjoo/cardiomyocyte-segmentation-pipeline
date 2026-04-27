@@ -72,7 +72,7 @@ Tested with Python 3.10+.
 
 ``` bash
 git clone <https://github.com/MobinKhoramjoo/cardiomyocyte-segmentation-pipeline>
-cd cardiomyocyte-size-pipeline
+cd cardiomyocyte-segmentation-pipeline
 
 python -m venv .venv
 source .venv/bin/activate          # on Windows: .venv\Scripts\activate
