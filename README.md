@@ -71,7 +71,7 @@ cardiomyocyte-size-pipeline/
 Tested with Python 3.10+.
 
 ``` bash
-git clone <your-repo-url>
+git clone <https://github.com/MobinKhoramjoo/cardiomyocyte-segmentation-pipeline>
 cd cardiomyocyte-size-pipeline
 
 python -m venv .venv
