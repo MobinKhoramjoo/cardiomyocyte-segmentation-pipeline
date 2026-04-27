@@ -1,4 +1,4 @@
-# Cardiomyocyte Size Pipeline
+# Cardiomyocyte Segmentation Pipeline
 
 A reproducible pipeline for segmenting cardiomyocytes in immunofluorescence images and quantifying cell size and cell count per image. Segmentation is performed with [Cellpose](https://github.com/MouseLand/cellpose) using the DAPI (nuclei) and WGA (cell borders) channels of Leica confocal `.lif` stacks.
 
