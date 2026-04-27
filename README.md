@@ -58,7 +58,6 @@ cardiomyocyte-segmentation-pipeline/
 │   ├── example_1.png
 │   ├── example_2.png
 │   ├── example_3.png
-│   └── count_vs_area.png
 │
 └── config/
     └── sample_groups.example.csv   Template for the sample-to-group mapping
